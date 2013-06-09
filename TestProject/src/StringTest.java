@@ -13,7 +13,7 @@ public class StringTest {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		String ss = "ddtovvto";
+		String ss = "master";
 
 		System.out.println(ss.substring(0,ss.lastIndexOf("to")));
 
